@@ -4,3 +4,4 @@ The APK name includes 'G6' in it that means Grade 6. That indicates that particu
 The APK name includes 'G7' in it that means Grade 7. That indicates that particular app have only grade 7 games it does not have grade 6 or other grade games.
 Here ENG meas English,KN - Kannada,HN - Hindi,MR - Marathi,OD - Odia, TM - Tamil
 Offline Apps are created for each languages and each grade(6 & 7) ex : BBplusplusOffHNG6 - It is a Grade 6 offline Hindi App # BBplusplus-Apk-Files
+You can refer the above document (BB and BBPlusPlus on github) for the apk details.
